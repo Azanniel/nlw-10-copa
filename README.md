@@ -61,7 +61,7 @@ Não se esqueça de alterar o caminho da sua URL da api caso tenha modificado no
 
 ## 🃏 Layout
 
-Caso tenha interesse em visualizar o Layout temos o [link do figma](https://www.figma.com/file/kgbmAqY4DLEWlFQWEOzXfo/RentX-Ignite?node-id=1%3A131).
+Caso tenha interesse em visualizar o Layout temos o [link do figma](https://www.figma.com/file/O1fgfqvPdKX4NYACkHWitE/Bol%C3%A3o-da-Copa?t=WzIRwBP3Fr8AuuOs-6).
 
 ## ☕ Contatos
 
