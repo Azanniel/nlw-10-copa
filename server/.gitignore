@@ -1,0 +1,8 @@
+# FOLDERS
+node_modules
+build
+
+# FILES
+.env
+prisma/dev.db*
+prisma/ERD.svg
